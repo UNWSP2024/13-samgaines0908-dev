@@ -1,3 +1,8 @@
+#Author: Sam Gaines
+#Date:5/1/2026
+#Title: Cites Data Base
+
+
 import sqlite3
 
 def main():

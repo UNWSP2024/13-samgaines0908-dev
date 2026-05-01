@@ -6,7 +6,7 @@ def main():
 
     # Get a database cursor.
     cur = conn.cursor()
-    
+          #
     # Add the Cities table.
     add_cities_table(cur)
     
